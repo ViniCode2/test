@@ -10,7 +10,17 @@
 <body>
     <div class="center">
         <div class="box">
-        ghggjg
+            <div class="formulario">
+                <div class="title">
+                    <h2>Login</h2>
+                </div>
+                <div class="row"></div>
+
+                <!-- FORMULAŔIO -->
+                <form action="">
+                    
+                </form>
+            </div>
         </div>
     </div>
 </body>
